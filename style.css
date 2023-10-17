@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.heading{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-top: 3%;
+}
+body{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/07/Free-Download-Weather-Wallpaper.jpg);
+}
+.in{
+    width: 19%;
+    margin-top: 3%;
+   height: 30px;
+   border-radius: 8px;
+   border: solid black;
+}
+.btn{
+    margin-left: 1.5%;
+    padding: 10px 20px;
+    border-radius: 10px 15px;
+    font-size: 14px;
+    font-weight: 20px; 
+   border: solid black;
+}
+.f{
+    text-align: center;
+}
