@@ -9,6 +9,7 @@
 }
 body{
     background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/07/Free-Download-Weather-Wallpaper.jpg);
+    background-repeat:no-repeat ;
 }
 .in{
     width: 19%;
@@ -27,4 +28,38 @@ body{
 }
 .f{
     text-align: center;
+}
+.div-js{
+    
+    margin-top: 4%;
+    background-color: rgba(0, 0, 0, 0.815);
+    color: white;
+    border-radius: 30px;
+    padding: 20px;
+    width: 50%;
+}
+.div{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+.name{
+    line-height: 2;
+   
+    font-size: xx-large;
+}
+.center{
+    text-align: center;
+}
+.image{
+    width: 127px;
+}
+.text{
+    font-size: 40px;
+}
+.date{
+    font-size: 28px;
+}
+.name{
+    font-size: 30px;
 }
