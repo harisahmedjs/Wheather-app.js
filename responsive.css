@@ -1,0 +1,25 @@
+@media (max-width: 300px){
+.in{
+    width: 110px;
+    font-size: large;
+}
+.btn{
+    padding: 5px 10px;
+}
+.div-js{
+    padding: 10px;
+    width: 200px;
+}
+.name{
+    font-size: 30px;
+}
+.date{
+    font-size: 22px;
+}
+.image{
+    font-size: 22px;
+}
+.text{
+    font-size: 26px;
+}
+}
