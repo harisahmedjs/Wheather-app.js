@@ -31,24 +31,24 @@ div.innerHTML +=`<div class ="div-js">
 <div class='div-3'>
 
 <div>
-<p>Humidity</p>
-<p>&nbsp;&nbsp;&nbsp${dataa.current.humidity}&nbsp%</p>
+<p class='app-text'>Humidity</p>
+<p class='app-text'>&nbsp;&nbsp;&nbsp${dataa.current.humidity}&nbsp%</p>
 </div>
 
 
 <div>
-<p>pressure</p>
-<p>&nbsp;&nbsp${dataa.current.pressure_mb}&nbspmb</p>
+<p class='app-text'>pressure</p>
+<p class='app-text'>&nbsp;&nbsp${dataa.current.pressure_mb}&nbspmb</p>
 </div>
 
 <div>
-<p>wind speed</p>
-<p>&nbsp;&nbsp${dataa.current.wind_kph}&nbspkph</p>
+<p class='app-text'>wind speed</p>
+<p class='app-text'>&nbsp;&nbsp${dataa.current.wind_kph}&nbspkph</p>
 </div>
 
 <div>
-<p>wind  Degree</p>
-<p>&nbsp;&nbsp${dataa.current.wind_degree}&nbsp<sup>°</sup> C</p>
+<p class='app-text'>wind  Degree</p>
+<p class='app-text'>&nbsp;&nbsp${dataa.current.wind_degree}&nbsp<sup>°</sup> C</p>
 </div>
 
 </div>

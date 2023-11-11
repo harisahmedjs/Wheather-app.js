@@ -2,6 +2,7 @@
     margin: 0%;
     padding: 0;
 }
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 .heading{
     text-align: center;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -12,6 +13,8 @@ body{
     background-image: url('https://github.com/meet-salman/WeatherApp-JS/blob/main/assets/bg-img/andrey.png?raw=true');
     background-repeat:no-repeat ;
     background-size:cover ;
+    /* background: fixed; */
+    font-family: 'Quicksand', sans-serif;
 }
 .in{
     width: 19%;
@@ -84,4 +87,7 @@ flex-wrap: wrap;
 .div-3{
     display: flex;
     justify-content: space-around;
+}
+.app-text{
+    font-size: x-large;
 }
