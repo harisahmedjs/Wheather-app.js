@@ -10,10 +10,12 @@
     color: white;
 }
 body{
-    background-image: url('https://github.com/meet-salman/WeatherApp-JS/blob/main/assets/bg-img/andrey.png?raw=true');
-    background-repeat:no-repeat ;
-    background-size:cover ;
-    /* background: fixed; */
+    background-image: url('https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2VhdGhlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     font-family: 'Quicksand', sans-serif;
 }
 .in{
@@ -38,7 +40,10 @@ body{
 .div-js{
     
     margin-top: 4%;
-    background-color:#57575723;
+    /* background-color:#14131323;
+     */
+     background-color: rgb(2, 2, 2,o.5
+     );
     color: white;
     border-radius: 30px;
     padding: 20px;

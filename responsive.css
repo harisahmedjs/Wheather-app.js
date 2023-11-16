@@ -1,10 +1,11 @@
-@media (max-width: 300px){
+@media (max-width: 600px){
 .in{
-    width: 110px;
+    width: 190px;
     font-size: large;
+padding: 5px;
 }
 .btn{
-    padding: 5px 10px;
+    padding: 10px 15px;
 }
 .div-js{
     padding: 10px;
@@ -23,3 +24,111 @@
     font-size: 26px;
 }
 }
+@media screen and  (max-width: 768px) and (min-width:600px){
+.in{
+    width: 240px;
+    font-size: x-large;
+    padding: 5px;
+}
+.btn{
+    padding: 15px 20px;
+}
+.div-js{
+    padding: 10px;
+    width: 200px;
+}
+.name{
+    font-size: 30px;
+}
+.date{
+    font-size: 22px;
+}
+.image{
+    font-size: 22px;
+}
+.text{
+    font-size: 26px;
+}
+}
+@media screen and (max-width: 992px) and (min-width:768px){
+    .in{
+        width: 320px;
+        font-size: x-large;
+        height: 35px;
+        padding: 5px;
+    }
+    .btn{
+        padding: 15px 20px;
+    }
+    .div-js{
+        padding: 10px;
+        width: 200px;
+    }
+    .name{
+        font-size: 30px;
+    }
+    .date{
+        font-size: 22px;
+    }
+    .image{
+        font-size: 22px;
+    }
+    .text{
+        font-size: 26px;
+    }
+    }
+    @media screen and (max-width: 1236px) and (min-width:992px){
+        .in{
+            width: 350px;
+            font-size: x-large;
+            height: 40px;
+           padding: 5px;
+        }
+        .btn{
+            padding: 15px 20px;
+        }
+        .div-js{
+            padding: 10px;
+            width: 200px;
+        }
+        .name{
+            font-size: 30px;
+        }
+        .date{
+            font-size: 22px;
+        }
+        .image{
+            font-size: 22px;
+        }
+        .text{
+            font-size: 26px;
+        }
+        }
+        @media screen and (max-width: 1329px) and (min-width:1236px){
+            .in{
+                width: 400px;
+                font-size: x-large;
+                height: 40px;
+               padding: 8px;
+            }
+            .btn{
+                padding:15px 20px;
+            }
+            .div-js{
+                padding: 10px;
+                width: 200px;
+            }
+            .name{
+                font-size: 30px;
+            }
+            .date{
+                font-size: 22px;
+            }
+            .image{
+                font-size: 22px;
+            }
+            .text{
+                font-size: 26px;
+            }
+            }
+        
